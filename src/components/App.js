@@ -4,7 +4,7 @@ import MainScreen from "./MainScreen";
 export default function App() {
     return (
         <>
-            <MainScreen/>
+            <MainScreen />
             <GlobalStyle />
         </>
     )
